@@ -15,7 +15,7 @@ The datasets were processed to resize, convert to RGB, and normalize the images 
 <p>Using seaborn, matplotlib and other libraries to create plots and graphs to display visual graphics of the data in a easy to view manor</p>
 
 ### Machine Learning models Used
-<p>used the models: KNN, Random Forest, Decision Tree. Also calcuated and created a prediction using a general Logistic Regression</p>
+<p>Used the models: KNN, Random Forest, Decision Tree. Also calculated and  created a prediction using a general Logistic Regression</p>
 
 ### References
 <p> Brain Stroke Dataset Classification Prediction - jillanisofttech </p> 
